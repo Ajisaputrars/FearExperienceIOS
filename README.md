@@ -4,7 +4,7 @@
 Amygdala is a native iOS app to deliver fear experience. This app is created to answer the challenge of our Mini Challenge 1 in Apple Developer Academy, which is how to create fear exprerience using audio-visual. 
 
 ### **How to Get This Project**
-You can view our Wiki document for cloning guide.
+You can view our **[Wiki Document][1]** for cloning guide.
 
 ### **Prerequisites to Understand This Project**
 These are the prerequisites before you try to read (and understand) this project:
@@ -28,24 +28,25 @@ All of the content in this app is original content made by our group. So, you wi
 
 ### **Author**
 
-* **[Aji Saputra Raka Siwi][1]**
-* **[Christian Tanputra][2]**
-* **[MasGanang][3]** 💞
+* **[Aji Saputra Raka Siwi][2]**
+* **[Christian Tanputra][3]**
+* **[MasGanang][4]** 💞
 * RizkiDN
 * Tama
 
 This project is free and open. You can participate to this project to make even more better for everybody to learn.
 
 ### **License**
-This project is licensed under the GNU General Public License v3.0 - see the [**LICENSE.md**][4] file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [**LICENSE.md**][5] file for details.
 
 ---- 
 
 Copyright © 2020 **Aji Saputra Raka Siwi**
 
-[1]:	https://github.com/Ajisaputrars
-[2]:	https://github.com/ChristianTanputra
-[3]:	https://github.com/ganang/
-[4]:	https://github.com/Ajisaputrars/Submission-4-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE
+[1]:	https://github.com/Ajisaputrars/MC1-Amygdala/wiki/How-to-Get-This-Project
+[2]:	https://github.com/Ajisaputrars
+[3]:	https://github.com/ChristianTanputra
+[4]:	https://github.com/ganang/
+[5]:	https://github.com/Ajisaputrars/Submission-4-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE
 
 [image-1]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/screenshot.png
