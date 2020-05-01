@@ -38,7 +38,7 @@ All of the content in this app is original content made by our group. So, you wi
 This project is free and open. You can participate to this project to make even more better for everybody to learn.
 
 ### **License**
-This project is licensed under the GNU General Public License v3.0 - see the [**LICENSE.md**][5] file for details.
+This project is licensed under the MIT license - see the [**LICENSE.md**][5] file for details.
 
 ---- 
 
