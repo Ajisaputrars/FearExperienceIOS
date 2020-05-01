@@ -1,6 +1,6 @@
 # **Amygdala - Fear Experience**
 
-![]()
+![][image-1]
 Amygdala is a native iOS app to deliver fear experience. This app is created to answer the challenge of our Mini Challenge 1 in Apple Developer Academy, which is how to create fear exprerience using audio-visual. 
 
 ### **How to Get This Project**
@@ -48,3 +48,4 @@ Copyright © 2020 **Aji Saputra Raka Siwi**
 [3]:	https://github.com/ganang/
 [4]:	https://github.com/Ajisaputrars/Submission-4-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE
 
+[image-1]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/screenshot.png
