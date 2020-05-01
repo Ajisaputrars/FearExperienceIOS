@@ -18,6 +18,7 @@ These are the prerequisites before you try to read (and understand) this project
 
 ### **Project Overview**
 
+![][image-2]
 This is a simple app to deliver fear experience using audio-visual. The media we chose is video because it is easier to produce in short time frame. 
 
 Before launching into Main Screen, the Warning Screen will appear to give you a warning. This app will contain scary and terrifying videos which can (maybe) give you heart attack.
@@ -50,3 +51,4 @@ Copyright © 2020 **Aji Saputra Raka Siwi**
 [5]:	https://github.com/Ajisaputrars/Submission-4-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE
 
 [image-1]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/screenshot.png
+[image-2]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/Amygdala.png
