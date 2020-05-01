@@ -48,7 +48,7 @@ Copyright © 2020 **Aji Saputra Raka Siwi**
 [2]:	https://github.com/Ajisaputrars
 [3]:	https://github.com/ChristianTanputra
 [4]:	https://github.com/ganang/
-[5]:	https://github.com/Ajisaputrars/Submission-4-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE
+[5]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/LICENSE
 
 [image-1]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/screenshot.png
 [image-2]:	https://github.com/Ajisaputrars/MC1-Amygdala/blob/master/Amygdala.png
